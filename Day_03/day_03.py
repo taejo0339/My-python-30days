@@ -311,13 +311,13 @@
 # number_of_seconds_you_have_lived = number_of_years_you_have_lived * 365 * 24 * 60 * 60
 # print('You have lived for', number_of_seconds_you_have_lived, 'seconds.')
 
-n = 1
-print(n, n ** 0, n ** 1, n ** 2, n ** 3)
-n = 2
-print(n, n ** 0, n ** 1, n ** 2, n ** 3)
-n = 3
-print(n, n ** 0, n ** 1, n ** 2, n ** 3)
-n = 4
-print(n, n ** 0, n ** 1, n ** 2, n ** 3)
-n = 5
-print(n, n ** 0, n ** 1, n ** 2, n ** 3)
+# n = 1
+# print(n, n ** 0, n ** 1, n ** 2, n ** 3)
+# n = 2
+# print(n, n ** 0, n ** 1, n ** 2, n ** 3)
+# n = 3
+# print(n, n ** 0, n ** 1, n ** 2, n ** 3)
+# n = 4
+# print(n, n ** 0, n ** 1, n ** 2, n ** 3)
+# n = 5
+# print(n, n ** 0, n ** 1, n ** 2, n ** 3)
